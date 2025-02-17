@@ -53,9 +53,7 @@ docker-compose down
 **POST** `/api/shorten`
 ```json
 {
-  "url": "https://example.com",
-  "customShort": "myalias",  // (Optional)
-  "expiry": 3600  // Expiry time in seconds (Optional)
+  "url": "https://example.com"
 }
 ```
 #### **Typical Response:**
