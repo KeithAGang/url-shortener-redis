@@ -1,5 +1,6 @@
-export type request = {
-    url: string
+export interface request  {
+    url: string,
+    short: string
 }
 
 export type response = {
