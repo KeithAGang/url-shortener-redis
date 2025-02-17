@@ -42,8 +42,7 @@ docker-compose down
 ```
 ├── frontend/       # Svelte + Vite frontend
 ├── backend/        # Go Fiber backend
-├── docker-compose.yml  # Docker Compose config
-├── Dockerfile      # Project Dockerfile
+├── docker-compose.yml  # Docker Compose config for the project
 |── db              # Location Of Dockerfile Configuration For Redis
 └── README.md       # This file
 ```
@@ -108,6 +107,11 @@ This will run the services in detached mode (`-d`).
 
 ## 📜 License
 This project is licensed under the MIT License.
+
+---
+
+## 🙏 Acknowledgements
+I would like to acknowledge [Akhil Sharma](https://www.youtube.com/@AkhilSharmaTech) for the wonderful tutorial series on golang and redis.
 
 ---
 
