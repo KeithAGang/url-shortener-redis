@@ -7,15 +7,15 @@ A simple **URL Shortener** built using:
 - **Containerized**: Runs via **Docker Compose**
 
 ## Features
-✅ Shorten long URLs with a custom alias (optional)
-✅ Fast and lightweight using Redis for storage
-✅ Simple API with rate-limiting
-✅ Fully containerized for easy deployment
+    ✅ Shorten long URLs with a custom alias (optional)
+    ✅ Fast and lightweight using Redis for storage
+    ✅ Simple API with rate-limiting
+    ✅ Fully containerized for easy deployment
 
 ---
 
 ## A Take Away 
-    -To Change Your App's Domain During Development, Modify The .env File in **./api**
+    To Change Your App's Domain During Development, Modify The .env File in ./api
 
 ## 🛠️ Setup & Installation
 ### **Prerequisites**
