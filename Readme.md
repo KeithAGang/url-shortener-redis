@@ -57,7 +57,7 @@ docker-compose down
 ```json
 {
   "url": "https://example.com",
-  "short": "{ your own custom short } // Its Optional, You Can Omit This
+  "short": "{ your own custom short }" // Its Optional, You Can Omit This
 }
 ```
 #### **Typical Response:**
