@@ -43,9 +43,8 @@ docker-compose down
 ├── frontend/       # Svelte + Vite frontend
 ├── backend/        # Go Fiber backend
 ├── docker-compose.yml  # Docker Compose config
-├── Dockerfile      # Frontend Dockerfile
+├── Dockerfile      # Project Dockerfile
 |── db              # Location Of Dockerfile Configuration For Redis
-├── backend.Dockerfile # Backend Dockerfile
 └── README.md       # This file
 ```
 
