@@ -14,6 +14,9 @@ A simple **URL Shortener** built using:
 
 ---
 
+## A Take Away 
+    -To Change Your App's Domain During Development, Modify The .env File in **./api**
+
 ## 🛠️ Setup & Installation
 ### **Prerequisites**
 Ensure you have **Docker** and **Docker Compose** installed.
