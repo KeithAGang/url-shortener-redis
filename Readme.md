@@ -53,7 +53,8 @@ docker-compose down
 **POST** `/api/shorten`
 ```json
 {
-  "url": "https://example.com"
+  "url": "https://example.com",
+  "short": "{ your own custom short } // Its Optional, You Can Omit This
 }
 ```
 #### **Typical Response:**
